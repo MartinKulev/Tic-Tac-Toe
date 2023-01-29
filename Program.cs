@@ -271,7 +271,7 @@ namespace TicTacToe._2
                     Console.WriteLine($"│   │   │ {symbol} │");
                     Console.WriteLine($"│   │ {symbol} │   │");
                     Console.WriteLine($"│ {symbol} │   │   │");
-                    break;
+                    break; 
                 }
 
             }
