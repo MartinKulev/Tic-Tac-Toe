@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\Random\tictactoe\bin\Debug\netcoreapp3.1\YT.TicTacToe.exe
+C:\Users\Martin\source\repos\Random\tictactoe\bin\Debug\netcoreapp3.1\YT.TicTacToe.deps.json
+C:\Users\Martin\source\repos\Random\tictactoe\bin\Debug\netcoreapp3.1\YT.TicTacToe.runtimeconfig.json
+C:\Users\Martin\source\repos\Random\tictactoe\bin\Debug\netcoreapp3.1\YT.TicTacToe.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\Random\tictactoe\bin\Debug\netcoreapp3.1\YT.TicTacToe.dll
+C:\Users\Martin\source\repos\Random\tictactoe\bin\Debug\netcoreapp3.1\YT.TicTacToe.pdb
+C:\Users\Martin\source\repos\Random\tictactoe\obj\Debug\netcoreapp3.1\YT.TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\Random\tictactoe\obj\Debug\netcoreapp3.1\YT.TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\Random\tictactoe\obj\Debug\netcoreapp3.1\YT.TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\Random\tictactoe\obj\Debug\netcoreapp3.1\YT.TicTacToe.AssemblyInfo.cs
+C:\Users\Martin\source\repos\Random\tictactoe\obj\Debug\netcoreapp3.1\YT.TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Random\tictactoe\obj\Debug\netcoreapp3.1\YT.TicTacToe.dll
+C:\Users\Martin\source\repos\Random\tictactoe\obj\Debug\netcoreapp3.1\YT.TicTacToe.pdb
+C:\Users\Martin\source\repos\Random\tictactoe\obj\Debug\netcoreapp3.1\YT.TicTacToe.genruntimeconfig.cache
