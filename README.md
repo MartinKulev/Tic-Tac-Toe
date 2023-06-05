@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game
-This program is a recreation of the famous game called Tic-tac-toe.
+A recreation of the famous game called Tic-tac-toe.
 
 # How to Use the Program
 To play the game, follow these steps:
