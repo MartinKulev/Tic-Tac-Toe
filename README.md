@@ -2,10 +2,9 @@
 A recreation of the famous game called Tic-tac-toe.
 
 # How to Use the Program
-To play the game, follow these steps:
-
 The players take turns entering numbers between 1 and 9. Each number represents one of the nine boxes on the game board.
 The boxes on the first row are numbered 1, 2, and 3. The boxes on the second row are numbered 4, 5, and 6. The boxes on the third row are numbered 7, 8, and 9.
+
 # Game Board
 The symbol on the board automatically changes with each turn.
 For example, if it's User 1's turn and they type "5," an "X" will appear in the middle box. Then, if it's User 2's turn and they type "3," an "O" will appear in the top right corner.
